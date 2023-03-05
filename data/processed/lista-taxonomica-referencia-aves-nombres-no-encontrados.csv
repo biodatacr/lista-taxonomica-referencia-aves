@@ -1,0 +1,2 @@
+usageKey,scientificName,canonicalName,rank,status,confidence,matchType,kingdom,phylum,order,family,genus,species,kingdomKey,phylumKey,classKey,orderKey,familyKey,genusKey,speciesKey,synonym,class,acceptedUsageKey,verbatim_name,verbatim_index
+2483449,"Nesotriccus C.H.Townsend, 1895",Nesotriccus,GENUS,ACCEPTED,94,HIGHERRANK,Animalia,Chordata,Passeriformes,Tyrannidae,Nesotriccus,NA,1,44,212,729,5291,2483449,NA,FALSE,Aves,NA,Nesotriccus murinus,604
